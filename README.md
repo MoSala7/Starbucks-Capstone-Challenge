@@ -38,7 +38,8 @@ JSON files are provided by Starbucks and Udacity. The data is contained in three
 
 2-) Model results
 
-I have the Decision tree which is normally used to prospective customers with using demographics data.
+I have used 2 different models to select the effective one. Decision tree is normally used to prospective customers with using demographics data. Random forest also has similar usages so I try both of them. Decision Tree gives the best results according to F1 score.
+
 
 ## Acknowledgements
 
