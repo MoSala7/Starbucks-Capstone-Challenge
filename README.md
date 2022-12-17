@@ -42,5 +42,5 @@ I have the Decision tree which is normally used to prospective customers with us
 
 ## Acknowledgements
 
-You can check detailed report from [here]()
+You can check detailed report from [here](https://medium.com/@mo.okaily01/understand-starbucks-offers-a48b19ae1765)
 
